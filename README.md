@@ -14,6 +14,9 @@
   <a href="https://xfinx.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/XFIN-Live_Product-0f766e?style=for-the-badge" alt="XFIN"/>
   </a>
+  <a href="https://xplendor.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Xplendor-Live_Platform-1f2937?style=for-the-badge" alt="Xplendor"/>
+  </a>
   <a href="mailto:simonfrtd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -33,7 +36,7 @@
 ### 🚀 Featured projects
 
 **[XFIN](https://xfinx.netlify.app) — Personal finance app (in production)**
-Portuguese finance app I designed, built and published on the App Store and Google Play. Invoice scanning via AI/OCR (AT QR Code), 500+ active users.
+Portuguese finance app I designed, built and published on the App Store and Google Play. Invoice scanning via AI/OCR (AT QR Code), 50+ active users.
 `React Native` · `ReactJS` · `Node.js` · `TypeScript` · `Firebase`
 
 **Xplendor — Car import platform**
